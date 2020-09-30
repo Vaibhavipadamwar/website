@@ -46,4 +46,4 @@ This website uses [Statiq Web](https://github.com/statiqdev/Statiq.Web), a flexi
   * *css* folder contains all the stylesheet files required.
   * *js* folder contains the JavaScript libraries and other custom scripts.
 
-Each file inside the *input* folder is processed by Statiq and will generate static output files.
+Each file inside the *input* folder is processed by Static and will generate static output files.
